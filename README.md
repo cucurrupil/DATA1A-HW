@@ -10,7 +10,7 @@ Are used to perform 'decision making' and then branch the program flow based on 
     else{
         }
 
-# REPETIVE STRUCTURES: 
+# REPETITIVE STRUCTURES: 
 Repetition structures, or loops, are used when a program needs to repeatedly process one or more instructions until some condition is met, at which time the loop ends. Many programming tasks are repetitive, having little variation from one item to the next. The process of performing the same task over and over again is called iteration
 
     for(i=1;i<0;i++)
