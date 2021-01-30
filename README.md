@@ -58,9 +58,12 @@ Variables are usually visualized as letters or a phrase, and in certain cases va
 * NUMERIC.
 Quantities that can be used to make operations.
 * LOGIC.
-Decisions to make between possible answers using equal, and, or less than, greater than 
+Decisions to make between possible answers using equal, and, or less than, greater than. 
 * STRING AND CHARACTERS. 
 Strings are defined as an array of characters. The difference between a character array and a string is the string is terminated with a special character ‘\0’.
+
+    string nombre 
+    
 * ARRANGEMENTS.
 It is a set of data or a homogeneous data structure that is located consecutively. 
 
@@ -69,27 +72,61 @@ It is a set of data or a homogeneous data structure that is located consecutivel
   # ->OPERATORS:
   
 * ARITHMETIC. 
-That perform arithmetic operations with numeric operands. 
+That perform arithmetic operations with numeric operands.
+
+    +
+    -
+    *
+    sqrt
+    /
+    %
+    
 * LOGIC. 
 Which perform logical operations with bool operands. 
+
+    <
+    >
+    ==
+    =!
+    
 * RELATIONSHIPS.
 That compare numeric operands. 
+    
+    x < y
+    x > y
   
   # ->OPERANDS:
   
 * VARIABLES.
 Used in operations, its value can change. a, b
+
+    a = 3
+    a = a + 3
+
 * CONSTANTS. 
 Used in operations, its value cannot change. x, y
+
+    x = 3
+    suma = x + 3
 
  # ->EXPRESSIONS:
  
 * ARITHMETIC. 
 Integers or float, real numbers.
+
+       float promedio x
+       int edad e
+       
 * LOGIC. 
 True or False decisions.
+    
+        numero1 == numero2 (TRUE OR FALSE)
+        numero1 =! numero2 (TRUE OR FALSE)
+        numero1 < numero2  (TRUE OR FALSE)
+        numero1 > numero2  (TRUE OR FALSE)
+        
 
-# ----------------------------------------------------------------------------------------------------------
+# ---------------------------------------------------------------------------------------------------------------
 
 # REFERENCES:
 
