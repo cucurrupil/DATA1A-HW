@@ -34,3 +34,12 @@ TYPES OF COMPUTACIONAL OPERATIONS:
   ->EXPRESSIONS:
 -ARITHMETIC. Integers or float, real numbers.
 -LOGIC. True or False decisions.
+
+---------------------------------------------------------------------------------------------------------------------------------------
+
+REFERENCES:
+Kernighan, B. W., & Ritchie, D. M. (1988). C Programming Language, 2nd Edition (2nd ed.). Pearson.
+Algorithm Representation. (n.d.). ALGORITHMS. http://www.public.asu.edu/%7Eatrow/ser101/notes/ProblemSolving/representation.html
+Jowett, M. K. (n.d.). Repetition Structures in C++. Structures C++. https://www.cs.fsu.edu/%7Ecop3014p/lectures/ch5/index.html
+Patt, Y. N., & Patel, S. J. (2003). Introduction to Computing Systems: From Bits and Gates to C and Beyond (2nd ed.) McGraw-Hill Education.
+Difference between operators and operands in C/C++ programming language - IncludeHelp. (n.d.). Includehelp. https://www.includehelp.com/c/difference-between-operators-and-operands-in-c-cpp-programming-language.aspx
